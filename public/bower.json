@@ -1,0 +1,24 @@
+{
+  "name": "public",
+  "authors": [
+    "liqinghua"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.2",
+    "bootstrap": "~3.3.6",
+    "bootstrap-datepicker": "~1.6.0",
+    "font-awesome": "~4.5.0"
+  }
+}
